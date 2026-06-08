@@ -1,113 +1,70 @@
 <h1 align="center">Hasini Wathsara</h1>
-
-<h3 align="center">
-Data Science Undergraduate
-</h3>
-
-<h4 align="center">
-Interested in Data Engineering, Business Intelligence, Data Analytics, Machine Learning, and Technology-Driven Solutions.
-</h4>
-
-<br>
-
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">Data Science Undergraduate | Passionate about Data Engineering, BI & Analytics</h3>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/hasini-wathsara-1b7172371/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/_wathz.za_/" target="_blank">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="45" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/itsWathsa" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
-</a>
-
+  IT undergraduate with a strong interest in Data Science and analytics.<br/>
+  Passionate about learning, building projects, and solving real-world problems using data.
 </p>
 
-<br>
+---
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasini-wathsara-1b7172371/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_wathz.za_" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="40" width="40" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/itsWathsa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,react,spring,git,github,postman,figma" />
-
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,react,spring,git,github,postman,figma,mysql,mongodb" />
 </p>
 
 <p align="center">
-
-<img src="https://img.icons8.com/color/96/r-project.png" width="50" height="50"/>
-
-<img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="50" height="50"/>
-
-<img src="https://img.icons8.com/color/96/power-bi.png" width="50" height="50"/>
-
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50" height="50"/>
-
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="50" height="50" alt="SQL Server"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="50" height="50" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50" height="50" alt="Excel"/>
 </p>
 
-<br>
+---
 
-<h3 align="center">Areas of Interest</h3>
+<h3 align="center">📌 Areas of Interest</h3>
 
 <p align="center">
-
-📊 Data Analytics & Visualization
-
-<br>
-
-🏗️ Data Engineering
-
-<br>
-
-🗄️ Data Warehousing
-
-<br>
-
-📈 Business Intelligence
-
-<br>
-
-🔄 ETL Development
-
-<br>
-
-📉 Predictive Analytics
-
-<br>
-
-🤖 Machine Learning
-
-<br>
-
-📚 OLAP Analysis
-
+  📊 Data Analytics &amp; Visualization &nbsp;|&nbsp;
+  🏗️ Data Engineering &nbsp;|&nbsp;
+  🗄️ Data Warehousing<br/>
+  📈 Business Intelligence &nbsp;|&nbsp;
+  🔄 ETL Development (SSIS / SSAS) &nbsp;|&nbsp;
+  📉 Predictive Modeling<br/>
+  🤖 Machine Learning &nbsp;|&nbsp;
+  📚 OLAP Analysis &nbsp;|&nbsp;
+  🌐 Web &amp; Application Development
 </p>
 
-<br>
+---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsWathsa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsWathsa&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=itsWathsa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
-
-<br>
 
 <p align="center">
-⭐ Feel free to explore my repositories and connect with me.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsWathsa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
+---
+
+<p align="center">⭐ Feel free to explore my repositories and connect with me.</p>
