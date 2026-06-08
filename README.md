@@ -28,14 +28,15 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,tailwind,bootstrap,react,nodejs,express,spring,git,postman,figma&perRow=15" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,tailwind,bootstrap&perRow=8" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perRow=15" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mysql,mongodb,git,github&perRow=8" />
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,figma&perRow=8" />
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="50" height="50" alt="SQL Server"/>
   <img src="https://img.icons8.com/color/96/power-bi.png" width="50" height="50" alt="Power BI"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50" height="50" alt="Excel"/>
