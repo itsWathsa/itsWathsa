@@ -47,15 +47,15 @@
 <h3 align="center">Areas of Interest</h3>
 
 <p align="center">
-  🏗️ Data Engineering &nbsp;|&nbsp;
-  🗄️ Data Warehousing<br/>
-  📈 Business Intelligence &nbsp;|&nbsp;
-  🔄 ETL Development (SSIS / SSAS) &nbsp;|&nbsp;
-  📉 Predictive Modeling<br/>
-  🤖 Machine Learning &nbsp;|&nbsp;
-  📊 Data Analytics &amp; Visualization &nbsp;|&nbsp;
-  📚 OLAP Analysis &nbsp;|&nbsp;
-  🌐 Web &amp; Application Development
+   Data Engineering &nbsp;|&nbsp;
+   Data Warehousing<br/>
+   Business Intelligence &nbsp;|&nbsp;
+   ETL Development (SSIS / SSAS) &nbsp;|&nbsp;
+   Predictive Modeling<br/>
+   Machine Learning &nbsp;|&nbsp;
+   Data Analytics &amp; Visualization &nbsp;|&nbsp;
+   OLAP Analysis &nbsp;|&nbsp;
+   Web &amp; Application Development
 </p>
 
 
