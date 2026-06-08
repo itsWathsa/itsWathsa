@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hasini-wathsara-1b7172371/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/>
@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,react,spring,git,github,postman,figma,mysql,mongodb" />
@@ -39,16 +39,16 @@
 
 ---
 
-<h3 align="center">📌 Areas of Interest</h3>
+<h3 align="center">Areas of Interest</h3>
 
 <p align="center">
-  📊 Data Analytics &amp; Visualization &nbsp;|&nbsp;
   🏗️ Data Engineering &nbsp;|&nbsp;
   🗄️ Data Warehousing<br/>
   📈 Business Intelligence &nbsp;|&nbsp;
   🔄 ETL Development (SSIS / SSAS) &nbsp;|&nbsp;
   📉 Predictive Modeling<br/>
   🤖 Machine Learning &nbsp;|&nbsp;
+  📊 Data Analytics &amp; Visualization &nbsp;|&nbsp;
   📚 OLAP Analysis &nbsp;|&nbsp;
   🌐 Web &amp; Application Development
 </p>
