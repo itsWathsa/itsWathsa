@@ -1,11 +1,6 @@
 <h1 align="center">Hasini Wathsara</h1>
 <h3 align="center">Data Science Undergraduate | Passionate about Data Engineering, BI & Analytics</h3>
 
-<p align="center">
-  IT undergraduate with a strong interest in Data Science and analytics.<br/>
-  Passionate about learning, building projects, and solving real-world problems using data.
-</p>
-
 ---
 
 <h3 align="center">Connect with Me</h3>
