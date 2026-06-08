@@ -28,7 +28,11 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,tailwind,bootstrap,react,nodejs,express,spring,git,postman,figma,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,tailwind,bootstrap,react,nodejs,express,spring,git,postman,figma&perRow=15" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perRow=15" />
 </p>
 
 <p align="center">
