@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hasini Wathsara</h1>
 
 <h3 align="center">
@@ -194,4 +193,4 @@ Passionate about transforming data into meaningful insights through Data Enginee
 ⭐ Feel free to explore my repositories and projects.
 
 </p>
-```
+
