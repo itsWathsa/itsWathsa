@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hasini-wathsara-1b7172371/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/>
@@ -25,10 +25,10 @@
 
 ---
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,react,spring,git,github,postman,figma,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css,tailwind,bootstrap,react,nodejs,express,spring,git,postman,figma,mysql,mongodb" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ---
 
-<h3 align="center">Areas of Interest</h3>
+<h3 align="center">📌 Areas of Interest</h3>
 
 <p align="center">
   🏗️ Data Engineering &nbsp;|&nbsp;
@@ -51,6 +51,18 @@
   📊 Data Analytics &amp; Visualization &nbsp;|&nbsp;
   📚 OLAP Analysis &nbsp;|&nbsp;
   🌐 Web &amp; Application Development
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsWathsa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsWathsa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
